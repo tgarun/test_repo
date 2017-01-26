@@ -9,3 +9,4 @@ if [ "$name" = "paarth" ]; then
 else
 	echo Good boy
 fi
+echo last line
