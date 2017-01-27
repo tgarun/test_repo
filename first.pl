@@ -1,3 +1,3 @@
-#!/usr/local/bin/perl +x
+#!c:\Program Files\Git\git-bash.exe
 
 print "Hello World";
